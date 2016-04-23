@@ -1,0 +1,20 @@
+<questions>
+  <question id="111">
+    <text>text1</text>
+    <answer>answer1</answer>
+    <hint>hint1</hint>
+	<hothint>hothint1</hothint>
+  </question>
+  <question id="112">
+    <text>text2</text>
+    <answer>answer2</answer>
+    <hint>hint2</hint>
+    <hothint>hothint2</hothint>
+  </question>
+  <question id="113">
+    <text>text3</text>
+    <answer>answer3</answer>
+    <hint>hint3</hint>
+    <hothint>hothint3</hothint>
+  </question>
+</questions>
